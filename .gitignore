@@ -11,23 +11,9 @@ __pycache__/
 *.egg
 *.whl
 
-# Data Files
-data/
-*.csv
-*.parquet
-*.db
-*.sqlite
-*.json
-*.pkl
-*.feather
-
 # Logs and Outputs
 *.log
 logs/
-.ipynb_checkpoints/
-*.png
-*.jpg
-*.pdf
 
 # IDE
 .vscode/
@@ -44,9 +30,6 @@ test_results/
 # Sistema Operacional
 .DS_Store
 Thumbs.db
-
-# Jupyter Notebooks (se usar)
-*.ipynb
 
 # Pacotes instalados
 site-packages/
