@@ -1,0 +1,57 @@
+# Virtual Environment
+venv/
+.env
+.env.local
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.dist-info/
+*.egg
+*.whl
+
+# Data Files
+data/
+*.csv
+*.parquet
+*.db
+*.sqlite
+*.json
+*.pkl
+*.feather
+
+# Logs and Outputs
+*.log
+logs/
+.ipynb_checkpoints/
+*.png
+*.jpg
+*.pdf
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Testes
+.coverage
+htmlcov/
+.pytest_cache/
+test_results/
+
+# Sistema Operacional
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebooks (se usar)
+*.ipynb
+
+# Pacotes instalados
+site-packages/
+
+# Arquivos temporários
+temp/
+tmp/
+EOF
