@@ -27,8 +27,8 @@ Certifique-se de ter instalado:
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
-   cd nome-do-repositorio
+   git clone https://github.com/juliahown/pipelinelab.git
+   cd pipelinelab
     ```
 2. Instale as dependências:
 
